@@ -1,1 +1,4 @@
 LISTA|001|Ana|02211133300|32911115555|R. Luiz Costa. Nº 90. Bairro: Santa Cecília|1
+FILA|101|001|Teoria das Estruturas de Dados|20/11/2026
+PILHA|201|Teoria das Estruturas de Dados|30/11/2026
+ARVORE|Matemática|Geometria
